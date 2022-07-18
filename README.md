@@ -7,5 +7,5 @@ cd DH-Bomber
 
 ls
 
-python2 DH-Bomber1.py
+python2 run.py
 
